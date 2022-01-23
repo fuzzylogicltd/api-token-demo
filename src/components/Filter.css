@@ -1,0 +1,11 @@
+label {
+    margin: 0 2rem 0 0;
+}
+
+label span {
+    margin-right: 0.25rem;
+}
+
+label input {
+    width: 4rem;
+}
